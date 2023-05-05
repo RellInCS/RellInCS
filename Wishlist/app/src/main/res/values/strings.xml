@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wishlist</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="desc">Desc</string>
+    <string name="nameInput">nameInput</string>
+    <string name="priceInput">priceinput</string>
+</resources>
